@@ -1,4 +1,5 @@
 file = open ("hola.txt","r+")
+#comentario
 
 lineas = file.readlines()
 print (lineas)
